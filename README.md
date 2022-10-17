@@ -16,6 +16,15 @@ Simple simulation interface and template for setting up a hardware interface for
 
 This open source project was developed at [PickNik Robotics](https://picknik.ai/). Need professional ROS development and consulting? Contact us at projects@picknik.ai for a free consultation.
 
+## Dependencies
+
+```bash
+sudo apt install ros-noetic-rosparam-shortcuts
+sudo apt install libgflags-dev
+sudo apt-get install ros-noetic-joint-trajectory-controller
+
+```
+
 ## Maintainers
 
 Special thanks to the following maintainers of this repo:
